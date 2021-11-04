@@ -10,5 +10,5 @@ RGB-IR 카메라 통합 3D point cloud 구현
 
 ## 결과
 
-<p align="left"> <img src='Images/rgb-ir-chessboard.jpg' align="center" height="400px">
+<p align="left"> <img src='Images/rgb-ir-chessboard.jpg' align="center" height="300px">
 <p align="left"> <img src='Images/calibration_3dpointcloud.jpg' align="center" height="400px">
