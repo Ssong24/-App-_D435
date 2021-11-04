@@ -1,4 +1,4 @@
-#Calibration
+# Calibration
 RGB-IR 카메라 통합 3D point cloud 구현
 
 ## 주요 과제
