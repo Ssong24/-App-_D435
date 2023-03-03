@@ -16,7 +16,7 @@ How to disable noisy output from numba. ``` NUMBA_DISABLE_JIT=1 ``` Just set env
 
 2. Create ```pyfeatures.so``` file 
 
-- 2-1. OpenCV library should be installed beforehand.
+- OpenCV library should be installed.
 
 ```
 git clone https://github.com/opencv/opencv.git
@@ -32,7 +32,7 @@ sudo sh -c 'echo "/usr/local/lib" >> /etc/ld.so.conf.d/opencv.conf’
 sudo ldconfigmake
 ```
 
- - 2-2. Cmake Build in hahog directory
+ - Cmake Build in hahog directory
 ```
 cd features/hahog
 cmake . && make 
